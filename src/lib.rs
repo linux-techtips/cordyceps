@@ -19,8 +19,8 @@
 //!
 //! A small example of how to use the openai crate
 //! ```
-//! use cordyceps::client::{ChatClient, Error, StreamExt};
-//! use cordyceps::chat::{Payload, Response};
+//! use cordyceps_api::client::{ChatClient, Error, StreamExt};
+//! use cordyceps_api::chat::{Payload, Response};
 //! use tokio::io::AsyncWriteExt;
 //!
 //! #[tokio::main]

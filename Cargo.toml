@@ -1,11 +1,11 @@
 [package]
-name = "cordyceps"
+name = "cordyceps_api"
 version = "0.1.0"
 edition = "2021"
 authors = ["linuxtechtips"]
 description = "OpenAI API Wrapper"
 license = "MIT"
-github = "https://github.com/linux-techtips/openai"
+github = "https://github.com/linux-techtips/cordyceps"
 
 keywords = ["openai", "api", "ai", "chatgpt"]
 
