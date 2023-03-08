@@ -1,0 +1,7 @@
+[hooks]
+pre-commit = "cargo test"
+pre-push = "cargo fmt -- --check && cargo clippy"
+post-commit = "cargo publish"
+
+[logging]
+verbose = true
